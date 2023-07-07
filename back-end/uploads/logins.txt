@@ -1,0 +1,138 @@
+﻿App Store Connect
+https://appstoreconnect.apple.com
+Soarwarelabs@gmail.com
+TeamSWL@23
+
+bdc5f99b61b745fb9a3360053e36400d
+fafafa
+dddddd
+
+streakers2000@
+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
+https://github.com/prosportguru/streakres.git
+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
+
+
+mobile coffee gain silk flip sound reject negative steak wash eight tide
+
+ALCLb3d1f9e1
+
+Adresse de votre espace client : https://panel.lws.fr
+Identifiant : LWS-264983
+Mot de passe : hzbxdtN8Y1
+
+
+Adresse de votre espace client : https://panel.lws.fr
+Identifiant : LWS-264983
+Mot de passe : hzbxdtN8Y1
+
+
+Serveur FTP : ftp.ongadesco.org
+Nom d'utilisateur : ongad832231
+Mot de passe : faugan160119892000
+Répertoire distant : /
+
+
+Serveur FTP : ftp.foafafrique.org
+Nom d'utilisateur : foafa866403
+Mot de passe : Z2x8P3d4d3J3
+Répertoire distant : /
+
+
+Serveur FTP : ftp.dianemagazine.com                       
+Nom d'utilisateur : diane1317039                 
+Mot de passe : n9d4b5j6v9v
+Port : 21 
+Dossier distant (directory path) : laissez vide ou /  
+
+
+Serveur FTP : ftp.ciscofinances.com
+Nom d'utilisateur : cisco759702
+
+heroku
+foganbidi4@gmail.com
+faugan2000@
+Mot de passe : gBsezw4Z
+
+
+http://pafedtogo.com/wp-admin
+User : gnofam22@yahoo.fr
+password : &EAQ5d5keX62d^U8lejJ724t
+
+
+Serveur FTP : ftp.ccmcourtiers.com                       
+Nom d'utilisateur : ccmco1695856                 
+Mot de passe : w7U5dT4Gm4
+Port : 21 
+Dossier distant (directory path) : laissez vide ou /  
+
+
+Serveur FTP : ftp.prosoft-agency.com                       
+Nom d'utilisateur : proso1678565                 
+Mot de passe : K4p4j3N97U9
+Port : 21 
+Dossier distant (directory path) : laissez vide ou /     
+
+
+
+Serveur Mysql : 185.98.131.158 (à la place de localhost pour les CMS)
+Nom de la base Mysql : proso1678565
+Identifiant / login : proso1678565
+Mot de passe : Faugan2000@
+
+
+Serveur Mysql : 185.98.131.109 (à la place de localhost quand vous installez un CMS)
+Nom de la base Mysql : diane1317039
+Identifiant / login : diane1317039
+Mot de passe : gdty3w5hvx
+
+
+https://dashboard.sinch.com/dashboard
+login:foganbidi2@gmail.com
+mdp:faugan2000@16011989
+
+https://connect.8x8.com/
+login:foganbidi2@gmail.com
+mpd:faugan2000@
+
+twilio
+foganbidi6@gmail.com
+fauganclementpascal1989@
+1jU6cottyh9Dxc5e-BIQ-MQeidz3ePYhsFsiGt1H
+
+twilio2
+fauganclementpascal1989@
+foganbidi10@gmail.com
+
+ccmcourtiers.com/softwares2.zip
+
+hostinger
+login with gmail:prosportdotguru@gmail.com
+
+expo1:
+faugan2
+faugan2000@
+
+expo2:
+faugan4
+faugan2000@
+
+godaddy
+121603366
+Wewillwin2019
+
+
+##################
+https://mirror2.openwrt.org/sources
+compat-wireless-2010-06-28.tar.bz2   
+
+tar -jxvf compat-wireless-2010-06-28.tar.bz2   
+cd compat-wireless-2010-06-28
+sudo make unload
+sudo make load
+##############################
+
+
+Your FTP Hostname: ftp.assitchape.com or 141.136.39.53
+Your FTP Username: assitcha
+Your FTP Password: Faugan2000@

@@ -1,0 +1,11 @@
+1- crash on pressing coins on home page // done 
+2- stats of challenges, maybe reprogram it
+3- create challenge process
+4- public feature on challenge locker room
+5- sports-props feature 
+	Team to win the most periods
+	When will game end
+	team to score last in regulation
+	
+6- remove pop after comenting a game
+	
